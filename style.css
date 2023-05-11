@@ -1,0 +1,39 @@
+.banner {
+    border-radius: 10000px;
+}
+
+.foca {
+    border-radius: 40px;
+}
+
+.tunel {
+    border-radius: 40px;
+}
+
+.penguin {
+    border-radius: 40px;
+}
+
+.mapa {
+    border-radius: 30px;
+}
+
+.fachada {
+    border-radius: 10000px;
+}
+
+.aquario {
+    border-radius: 30px;
+}
+
+.vidro {
+    border-radius: 30px;
+}
+
+.ambiente {
+    border-radius: 30px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
